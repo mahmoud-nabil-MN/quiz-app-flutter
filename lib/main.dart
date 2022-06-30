@@ -3,8 +3,6 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:untitled/quiz.dart';
 import 'package:untitled/result.dart';
-import 'questions.dart';
-import 'answer.dart';
 
 void main() => runApp(MyApp());
 
